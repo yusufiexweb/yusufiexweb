@@ -1,4 +1,4 @@
-# Hi there, I'm Yusif Shirinov 👋
+# Hi there, I'm Yusif Shirinov 
 
 ###  Frontend Developer & Technical Content Creator
 I build modern, responsive web applications and leverage **AI-powered workflows** to optimize code, UI/UX design, and technical content.
