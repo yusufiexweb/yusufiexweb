@@ -17,7 +17,7 @@ I build modern, responsive web applications and leverage **AI-powered workflows*
 ### 🌐 Connect with Me
 
 -  **LinkedIn:** [linkedin.com/in/nova333x](https://www.linkedin.com/in/nova333x)
--  **Upwork:** [Yusif's Freelance Profile](https://www.upwork.com/freelancers/~0147d5cf1e2f3617mp)
+-  **Upwork:** [Yusif's Freelance Profile](https://www.upwork.com/freelancers/~0147dd5cd1e2ef3617?mp_source=share)
 - **Email:** yusufiexxwaw@gmail.com
 
 ---
