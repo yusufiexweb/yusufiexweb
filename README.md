@@ -10,7 +10,6 @@ I build modern, responsive web applications and leverage **AI-powered workflows*
 - **Frontend & Web:** HTML5, CSS3, JavaScript, Web Architecture
 - **UI/UX & Visual Design:** Figma, Canva
 - **AI & Automation:** Leveraging AI for Web Development, Logic Problem Solving & Technical Writing
-- **Content & Media:** Video Editing (InShot, CapCut), Technical Content Creation
 
 ---
 
