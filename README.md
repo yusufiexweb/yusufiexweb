@@ -1,6 +1,6 @@
 # Hi there, I'm Yusif Shirinov 👋
 
-### 🚀 Frontend Developer & Technical Content Creator
+###  Frontend Developer & Technical Content Creator
 I build modern, responsive web applications and leverage **AI-powered workflows** to optimize code, UI/UX design, and technical content.
 
 ---
@@ -16,10 +16,10 @@ I build modern, responsive web applications and leverage **AI-powered workflows*
 
 ### 🌐 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/nova333x](https://www.linkedin.com/in/nova333x)
-- 🚀 **Upwork:** [Yusif's Freelance Profile](https://www.upwork.com/freelancers/~0147d5cf1e2f3617mp)
-- 📧 **Email:** yusufiexxwaw@gmail.com
+-  **LinkedIn:** [linkedin.com/in/nova333x](https://www.linkedin.com/in/nova333x)
+-  **Upwork:** [Yusif's Freelance Profile](https://www.upwork.com/freelancers/~0147d5cf1e2f3617mp)
+- **Email:** yusufiexxwaw@gmail.com
 
 ---
 
-⚡ *Open for freelance projects, technical writing, and frontend web development opportunities!*
+ *Open for freelance projects, technical writing, and frontend web development opportunities!*
